@@ -2,6 +2,7 @@ package Thread;
 
 public class AccountTest {
     public static void main(String[] args) {
+        System.out.println("hot-fix");
         Account act = new Account("act-001",15000);
 ThreadTest01 threadTest01 = new ThreadTest01();
         //ThreadTest01 threadTest02 = new ThreadTest01();
