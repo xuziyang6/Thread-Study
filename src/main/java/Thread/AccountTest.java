@@ -2,6 +2,7 @@ package Thread;
 
 public class AccountTest {
     public static void main(String[] args) {
+         System.out.println("远程库修改");
         System.out.println("hot-fix");
         System.out.println("hot-fix master test");
         System.out.println("hot-fix test");
